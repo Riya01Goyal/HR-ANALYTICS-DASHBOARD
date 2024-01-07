@@ -14,32 +14,6 @@ This repository contains the Power BI project files and documentation for analyz
 
 4. **Key Metrics**: Identification and presentation of key metrics related to employee attrition, such as turnover rate, average tenure, and department-specific attrition rates.
 
-## Getting Started
-
-### Prerequisites
-
-- Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-
-### Installation
-
-1. Clone this repository to your local machine.
-
-    ```bash
-    git clone https://github.com/your-username/employee-attrition-analysis.git
-    ```
-
-2. Open the `Employee_Attrition_Analysis.pbix` file using Power BI Desktop.
-
-3. Explore the dashboards and visualizations.
-
-## Usage
-
-1. Open the Power BI project to view the Employee Attrition Dashboard.
-
-2. Navigate through different sections to explore insights on employee attrition.
-
-3. Use filters and slicers for a more customized analysis based on departments, time periods, or other relevant factors.
-
 ## Analysis Details
 
 ### 1. Employee Attrition Dashboard
@@ -60,20 +34,7 @@ This repository contains the Power BI project files and documentation for analyz
 - **Exit Interviews**: Summaries and transcripts of exit interviews.
 - **Employee Surveys**: Feedback and responses from employee surveys.
 
-## Contributing
-
-If you would like to contribute to this project or have suggestions for improvements, please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Special thanks to the HR department for providing access to relevant data and supporting this analysis.
-
-## Contact
-
-For inquiries, please contact [your.email@example.com].
-
-Happy analyzing!
