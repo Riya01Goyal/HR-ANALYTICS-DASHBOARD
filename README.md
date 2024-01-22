@@ -4,6 +4,11 @@
 
 This repository contains the Power BI project file and documentation for analyzing employee attrition within the company. The goal of this analysis is to understand why employees leave the organization and to provide valuable insights for HR decision-making.
 
+
+
+![Screenshot (48)](https://github.com/Riya01Goyal/HR-ANALYTICS-DASHBOARD/assets/131674407/fd0c5109-3c64-43bd-a38b-ad8a84d0fe52)
+
+
 ## Features
 
 1. **Employee Attrition Dashboard**: A comprehensive Power BI dashboard providing an overview of employee attrition trends, key metrics, and visualizations.
@@ -28,4 +33,4 @@ This repository contains the Power BI project file and documentation for analyzi
 - **Employee Surveys**: Feedback and responses from employee surveys.
 
 
-![Screenshot (48)](https://github.com/Riya01Goyal/HR-ANALYTICS-DASHBOARD/assets/131674407/fd0c5109-3c64-43bd-a38b-ad8a84d0fe52)
+
