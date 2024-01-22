@@ -4,7 +4,7 @@
 
 This repository contains the Power BI project file and documentation for analyzing employee attrition within the company. The goal of this analysis is to understand why employees leave the organization and to provide valuable insights for HR decision-making.
 
-
+https://github.com/riyagoyal26/HR-ANALYTICS-DASHBOARD/assets/131674407/9a431619-546d-4214-ba82-5a768f6a48c0
 
 
 ## Features
