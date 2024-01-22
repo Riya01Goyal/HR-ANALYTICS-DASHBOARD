@@ -13,7 +13,6 @@ This repository contains the Power BI project file and documentation for analyzi
 3. **Data Sources**: Clear documentation on the data sources used for the analysis, ensuring transparency and reproducibility.
 
 4. **Key Metrics**: Identification and presentation of key metrics related to employee attrition, such as turnover rate, average tenure, and department-specific attrition rates.
-
 ## Analysis Details
 
 ### 1. Employee Attrition Dashboard
@@ -24,15 +23,9 @@ This repository contains the Power BI project file and documentation for analyzi
 
 ### 2. Reasons for Attrition Analysis
 
-- **Exit Interviews**: Summarized results and trends from exit interviews.
 - **Survey Data**: Analysis of employee surveys to identify potential factors contributing to attrition.
 - **Recommendations**: Insights and recommendations for HR based on the analysis.
-
-
-- **Exit Interviews**: Summaries and transcripts of exit interviews.
 - **Employee Surveys**: Feedback and responses from employee surveys.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
+![Screenshot (48)](https://github.com/Riya01Goyal/HR-ANALYTICS-DASHBOARD/assets/131674407/fd0c5109-3c64-43bd-a38b-ad8a84d0fe52)
